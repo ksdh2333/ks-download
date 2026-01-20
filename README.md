@@ -2,9 +2,7 @@ ks-download
 ===========
 
 基于 [ksdh2333.github.io](https://github.com/ksdh2333/ksdh2333.github.io)
-用于创建包含 **下载** 链接的页面
-
-**通过** [**download.ksdh.top**](https://www.ksdh.top) **访问托管于 Netlify 上的该网页**
+用于创建文件分享页面
 
 通过 ksdh2333@outlook.com 联系 **ksdh2333**
 
